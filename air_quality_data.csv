@@ -1,2 +1,2 @@
-city,pm10,pm2_5,european_aqi
-Brussels,9.0,4.9,26
+city,pm10,pm2_5,"european_aqi, Timestamp"
+Uppsala,4.0,2.4,14,2026-09-30 10:11:21.804677
